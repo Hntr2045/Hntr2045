@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hntr2045
-- 👀 I’m interested in mission critical systems for 
-- 🌱 I’m currently learning Rust, Zig, and Java.
+- 👀 I’m interested in performant TUIs, and custom tools for data file manipulation and analysis.
+- 🌱 I’m currently learning Rust and Zig.
 - 💞️ I’m looking to collaborate on high performance back-end systems for data/file management.
 - 📫 You can reach me at:
 - 😄 Pronouns: He/Him
